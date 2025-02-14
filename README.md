@@ -1,8 +1,7 @@
 # python-skills-showcase-portfolio
 
-# python begginer projects
-  # Number Guessing Game
-
+# ** python begginer projects
+  # mysteryNum
   ## Description
   This is a command-line number guessing game where the user selects a maximum number to set the difficulty level. The program then randomly generates a number within this range, and the user attempts to guess it.
   
