@@ -4,7 +4,7 @@ Work in progress
   ## python begginer projects
   ### MysteryNum
   #### Description & Features
-This repository contains a collection of number guessing game projects, each designed with varying levels of difficulty. The user selects a maximum number to set the difficulty level, and the program randomly generates a number within that range. The player attempts to guess the correct number while tracking performance metrics like wins, losses, and consecutive wins.
+The user selects a maximum number to set the difficulty level, and the program randomly generates a number within that range. The player attempts to guess the correct number while tracking performance metrics like wins, losses, and consecutive wins.
 
 Key features of the game include:
 - **Dynamic Difficulty Adjustment**: Users can change the difficulty at any time by entering a non-numeric value, which updates the maximum number for guessing.
